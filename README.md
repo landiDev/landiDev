@@ -80,7 +80,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=landiDev&theme=catppuccin_mocha&show_icons=true&hide_border=true&bg_color=1e1e2e&rank_icon=github&include_all_commits=true" alt="Github Readme Stats" /></p>
+ <img src="https://github-readme-stats.vercel.app/api?username=landiDev&include_all_commits=true&rank_icon=github&&show_icons=true&theme=catppuccin_latte" />
+</p>
 
 ---
 
