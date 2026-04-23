@@ -10,9 +10,9 @@
 
 ### 📖 About me
 
-Im a young developer living in Germany, currently working at <a href="https://brockhaus-ag.de">Brockhaus AG</a>, and hoping to start my studies soon. I enjoy writing code that solves everyday challenges: whether its a full watch-together platform for me and my friends, a mobile client for my cloud storage, or some small local tools that make my life just a bit easier.
+> Im a young developer living in Germany, currently working at <a href="https://brockhaus-ag.de">Brockhaus AG</a>, and hoping to start my studies soon. I enjoy writing code that solves everyday challenges: whether its a full watch-together platform for me and my friends, a mobile client for my cloud storage, or some small local tools that make my life just a bit easier.
 
-When Im not actively developing a project, you can usually find me in nature with my camera 📸, crocheting 🧶, tending to cats in the local shelter 🐾, reading a good fantasy book 📚 or enjoying some quality time with my friends ‍🧑🏻.
+> When Im not actively developing a project, you can usually find me in nature with my camera 📸, crocheting 🧶, tending to cats in the local shelter 🐾, reading a good fantasy book 📚 or enjoying some quality time with my friends ‍🧑🏻.
 
 ### **What Im up to:**
 - 🌱 **Currently focusing on:** building out my homeserver setup and optimizing the network architecture.  
@@ -60,28 +60,27 @@ When Im not actively developing a project, you can usually find me in nature wit
   <i>I am hoping to publish these, and many more projects on GitHub soon!</i>
 </p>
 
-### 🌌 AniWatch
-A full ecosystem for watching content together with your friends  
-Includes a web interface with chat and synchronized video playback using SRS  
-Lays the framework for a discord webhook allowing notifications and session history
+> ### 🌌 AniWatch
+> A full ecosystem for watching content together with your friends  
+> Includes a web interface with chat and synchronized video playback using SRS  
+> Lays the framework for a discord webhook allowing notifications and session history
 
-### 📱 Loft
-A Material UI mobile client for managing your FileRun instance on the go   
-Features an intuitive interface to upload, download and organise your files  
-Implements a secure server connection and local data storage / caching 
+> ### 📱 Loft
+> A Material UI mobile client for managing your FileRun instance on the go   
+> Features an intuitive interface to upload, download and organise your files  
+> Implements a secure server connection and local data storage / caching 
 
-### ☕ CosmicBrew
-A modern and landing page for a fictional family run coffee shop  
-Focuses on modern aesthetics, responsive design, and a smooth user experience  
-Showcases a story with text and galleries designed to entice curiosity in visitors  
+> ### ☕ CosmicBrew
+> A modern and landing page for a fictional family run coffee shop  
+> Focuses on modern aesthetics, responsive design, and a smooth user experience  
+> Showcases a story with text and galleries designed to entice curiosity in visitors  
 
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=landiDev&include_all_commits=true&rank_icon=github&&show_icons=true&theme=catppuccin_latte" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=landiDev&theme=catppuccin_mocha&show_icons=true&hide_border=true&bg_color=1e1e2e&rank_icon=github&include_all_commits=true" alt="Github Readme Stats" /></p>
 
 ---
 
