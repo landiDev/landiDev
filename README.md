@@ -1,7 +1,7 @@
 <img src="assets/banner.gif" alt="Welcome to my cozy corner" width="100%">
 <p align="right"><i><small>Banner art by <a href="https://x.com/lennsan_">@lennsan_</a></small></i></p>
 
-<h1 align="center">Hi, Im Adin 🦉🍂</h1>
+<h1 align="center">Hi, Im Adin 🍂</h1>
 <p align="center">
   <b>Full-Stack Development | Photography | Homelab Server</b>
 </p>
@@ -12,12 +12,12 @@
 
 > Im a young developer living in Germany, currently working at <a href="https://brockhaus-ag.de">Brockhaus AG</a>, and hoping to start my studies soon. I enjoy writing code that solves everyday challenges: whether its a full watch-together platform for me and my friends, a mobile client for my cloud storage, or some small local tools that make my life just a bit easier.
 
-> When Im not actively developing a project, you can usually find me in nature with my camera 📸, crocheting 🧶, tending to cats in the local shelter 🐾, reading a good fantasy book 📚 or enjoying some quality time with my friends ‍🧑🏻.
+> When Im not actively developing a project, you can usually find me in nature with my camera, crocheting, tending to cats in the local shelter, reading a good fantasy book or enjoying some quality time with my friends.
 
 ### **What Im up to:**
-- 🌱 **Currently focusing on:** building out my homeserver setup and optimizing the network architecture.  
-- 🔭 **Looking forward to:** contribute more to the open-source community via GitHub.  
-- 💼 **Gladly available for:** freelance website and system implementations, as well as contributions to projects. Lets chat!
+- **Currently focusing on:** building out my homeserver setup and optimizing the network architecture.  
+- **Looking forward to:** contribute more to the open-source community via GitHub.  
+- **Gladly available for:** freelance website and system implementations, as well as contributions to projects. Lets chat!
 
 ---
 
